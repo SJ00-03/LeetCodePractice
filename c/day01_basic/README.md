@@ -17,9 +17,9 @@ C의 입출력, 변수, 자료형, 연산자를 복구한다.
 
 ## LeetCode
 
-- [ ] 2235. Add Two Integers
-- [ ] 2413. Smallest Even Multiple
-- [ ] 2469. Convert the Temperature
+- ✅ 2235. Add Two Integers
+- ✅ 2413. Smallest Even Multiple
+- ✅ 2469. Convert the Temperature
 
 ## 로컬 실습
 
