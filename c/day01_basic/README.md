@@ -6,7 +6,7 @@ C의 입출력, 변수, 자료형, 연산자를 복구한다.
 
 ## 오늘 공부할 개념
 
-- [ ] main() 함수 구조
+- [x] main() 함수 구조
 - [ ] printf
 - [ ] scanf
 - [ ] int, float, double, char
