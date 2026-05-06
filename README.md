@@ -17,7 +17,7 @@ cat README.md
 
 | Day | 폴더 | 주제 | 완료 |
 |---:|---|---|:---:|
-| 01 | [`c/day01_basic`](c/day01_basic/README.md) | C 기본문법 | ⬜ |
+| 01 | [`c/day01_basic`](c/day01_basic/README.md) | C 기본문법 | ✅ |
 | 02 | [`c/day02_condition_loop`](c/day02_condition_loop/README.md) | C 조건문과 반복문 | ⬜ |
 | 03 | [`c/day03_array`](c/day03_array/README.md) | C 배열 1 | ⬜ |
 | 04 | [`c/day04_matrix`](c/day04_matrix/README.md) | C 2차원 배열과 행렬 | ⬜ |
