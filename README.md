@@ -48,7 +48,7 @@
 
 ---
 
-## 저장소 구조 추천
+## 저장소 구조
 
 ```text
 .
@@ -86,9 +86,7 @@
 │   ├── day34_robot_2d_position/
 │   ├── day35_pid_intro/
 │   └── day36_sensor_analysis/
-├── data/
-├── results/
-└── notes/
+
 ```
 
 ---
