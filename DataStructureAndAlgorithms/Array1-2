@@ -1,0 +1,37 @@
+// 내 풀이
+int* shuffle(int* nums, int numsSize, int n, int* returnSize){
+    
+    *returnSize = numsSize;
+    int *ans = malloc(sizeof(int) * (*returnSize));
+    
+    for(int i = 0; i < *returnSize; i++)
+    {
+        if(i % 2 == 0)
+        {
+            ans[i] = nums[i/2];
+            ans[i+1] = nums[i/2 + n];
+        }
+    }
+
+
+
+    return ans;
+}
+
+// gpt 추천 풀이
+int* shuffle(int* nums, int numsSize, int n, int* returnSize) {
+    *returnSize = numsSize;
+
+    int *ans = malloc(sizeof(*ans) * (*returnSize));
+    if (ans == NULL) {
+        *returnSize = 0;
+        return NULL;
+    }
+
+    for (int i = 0; i < n; i++) {
+        ans[2 * i] = nums[i];
+        ans[2 * i + 1] = nums[i + n];
+    }
+
+    return ans;
+}
