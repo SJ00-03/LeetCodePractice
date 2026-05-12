@@ -19,7 +19,7 @@
 
 - 🔺 412. Fizz Buzz
 - ✅ 1342. Number of Steps to Reduce a Number to Zero
-- 🟡 1523. Count Odd Numbers in an Interval Range
+- ✅  1523. Count Odd Numbers in an Interval Range
 
 ## 로컬 실습
 
