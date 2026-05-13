@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main(void){
+    int n;
+    int sum = 0;
+    
+    scanf("%d", &n);
+    for(int i = 0; i < n; i++){
+
+        sum += i+1;
+    }
+
+    printf("%d\n", sum);
+    return 0;
+}
+
+/*
+#include <stdio.h>
+
+int main(void)
+{
+    int n;
+    long long sum = 0;
+
+    scanf("%d", &n);
+
+    for (int i = 1; i <= n; i++) {
+        sum += i;
+    }
+
+    printf("%lld\n", sum);
+
+    return 0;
+}
+*/
