@@ -14,16 +14,16 @@
 
 ## LeetCode
 
-- [ ] 1480. Running Sum of 1d Array
-- [ ] 1920. Build Array from Permutation
-- [ ] 1470. Shuffle the Array
+- ✅ 1480. Running Sum of 1d Array
+- ✅ 1920. Build Array from Permutation
+- ✅ 1470. Shuffle the Array
 
 ## 로컬 실습
 
-- [ ] 정수 10개 입력받아 평균 구하기
-- [ ] 배열에서 최댓값 찾기
-- [ ] 배열에서 최솟값 찾기
-- [ ] 배열 거꾸로 출력하기
+- ✅  정수 10개 입력받아 평균 구하기
+- ✅  배열에서 최댓값 찾기
+- ✅  배열에서 최솟값 찾기
+- ✅  배열 거꾸로 출력하기
 
 ## 권장 파일 구성
 
@@ -47,7 +47,7 @@ day03_array/
 
 ### 헷갈린 것
 
-- 
+- malloc을 하면 그 메모리 값에는 쓰레기 값이 들어있음을 인지하기
 
 ### 다시 풀어야 할 문제
 
@@ -55,4 +55,6 @@ day03_array/
 
 ### 다음에 보완할 것
 
--
+- 최대 최소 값은 0을 주는 게 아니라 비교하는 처음 값으로 초기화 해야함
+- 평균은 int가 아니라 double로 받아야함
+ 
